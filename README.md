@@ -85,7 +85,7 @@ http://127.0.0.1:8000
 Swagger docs:
 
 ```
-http://127.0.0.1:8000/docs
+http://localhost:8000/docs
 ```
 
 ## 🎯 Project Purpose
